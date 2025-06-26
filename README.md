@@ -1,1 +1,3 @@
 # portfolio
+Hey guys!
+This is my portfolio website which i simply made using html and css, it is a responsive website which have different views for different devices. So, enjoy........
